@@ -104,7 +104,7 @@ e=/\bprettyprinted\b/,B=/pre|xmp/i,z=/^code$/i,v=/^(?:pre|code|xmp)$/i,g={};f()}
   // Use <meta> viewport so that Bootstrap is actually responsive on mobile
   var metaEl = document.createElement('meta');
   metaEl.name = 'viewport';
-  metaEl.content = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0';
+  metaEl.content = 'width=device-width, initial-scale=1';
   if (document.head.firstChild)
     document.head.insertBefore(metaEl, document.head.firstChild);
   else
@@ -141,13 +141,13 @@ e=/\bprettyprinted\b/,B=/pre|xmp/i,z=/^code$/i,v=/^(?:pre|code|xmp)$/i,g={};f()}
 
   var markdown = markdownEl.textContent || markdownEl.innerText;
 
-  var newNode = document.createElement('div');
+  var newNode = document.createElement('main');
   newNode.className = 'container';
   newNode.id = 'content';
   document.body.replaceChild(newNode, markdownEl);
 
   // Insert navbar if there's none
-  var newNode = document.createElement('div');
+  var newNode = document.createElement('nav');
   newNode.className = 'navbar navbar-expand-lg fixed-top navbar-dark bg-primary';
   if (!navbarEl && titleEl) {
     newNode.innerHTML = '<div class="container"> <div id="headline" class="navbar-brand"> </div> </div>';

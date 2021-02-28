@@ -41,7 +41,7 @@ It is the [development version](https://github.com/OCG-labs/strapdown/tree/dev) 
 I found a bug and fixed it.
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@0.20210228/2/strapdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@0.20210228/3/strapdown.min.js"></script>
 ```
 
 ___
@@ -54,7 +54,7 @@ I wanted to use the Yeti theme for this.\
 This was the catalyst for the improvement.
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@0.20210228/2/strapdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@0.20210228/4/strapdown.min.js"></script>
 ```
 
 ___

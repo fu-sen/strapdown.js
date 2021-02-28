@@ -50,7 +50,7 @@ ___
 
 It can use the [Bootstrap 4 themes](https://bootswatch.com/).
 
-I wanted to use the Yeti theme for this.\
+I wanted to use the [Yeti theme](https://bootswatch.com/yeti/) for this.\
 This was the catalyst for the improvement.
 
 ```
@@ -61,7 +61,8 @@ ___
 
 ### Development version
 
-These are up to date, but can be unstable. You can get this source here:
+This is updated from time to time, but if you use it, the display may change suddenly.\
+You can get this source here:
 
 <https://github.com/fu-sen/strapdown>
 

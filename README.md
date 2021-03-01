@@ -69,19 +69,19 @@ You can get this source here:
 **Bootstrap 2 themes** (v0.2 / bootstrap2 branch):
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@master/2/strapdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@main/2/strapdown.min.js"></script>
 ```
 
 **Bootstrap 3 themes** (v0.3 / bootstrap3 branch):
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@master/3/strapdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@main/3/strapdown.min.js"></script>
 ```
 
 **Bootstrap 4 themes** (v0.4 / main branch):
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@master/4/strapdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@main/4/strapdown.min.js"></script>
 ```
 
 ___

@@ -78,10 +78,16 @@ You can get this source here:
 <script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@main/3/strapdown.min.js"></script>
 ```
 
-**Bootstrap 4 themes** (v0.4 / main branch):
+**Bootstrap 4 themes** (v0.4 / bootstrap4 branch):
 
 ```
 <script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@main/4/strapdown.min.js"></script>
+```
+
+**Bootstrap 5 beta themes** (v0.5 / main branch):
+
+```
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@main/5/strapdown.min.js"></script>
 ```
 
 ___

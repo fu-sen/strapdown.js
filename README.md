@@ -28,7 +28,7 @@ The following has been added from the original:
 - Flatly
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210309/2/strapdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210310/2/strapdown.min.js"></script>
 ```
 
 ___
@@ -41,7 +41,7 @@ It is the [development version](https://github.com/OCG-labs/strapdown/tree/dev) 
 I found a bug and fixed it.
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210309/3/strapdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210310/3/strapdown.min.js"></script>
 ```
 
 ___
@@ -50,11 +50,18 @@ ___
 
 It can use the [Bootstrap 4 themes](https://bootswatch.com/).
 
-I wanted to use the [Yeti theme](https://bootswatch.com/yeti/) for this.\
-This was the catalyst for the improvement.
+```
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210310/4/strapdown.min.js"></script>
+```
+
+___
+
+### Bootstrap 5 beta theme
+
+It can use the Bootstrap 5 beta themes
 
 ```
-<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210309/4/strapdown.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210310/5/strapdown.min.js"></script>
 ```
 
 ___

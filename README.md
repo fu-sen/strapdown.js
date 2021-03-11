@@ -22,12 +22,12 @@ ___
 
 https://strapdown.js.balloon.net.eu.org/2/
 
-The original `Strapdown.js` v0.2\
-It adopts the [Bootstrap 2 themes](https://bootswatch.com/2/).\
-The following has been added from the original:
+This makes the following changes to the original `Strapdown.js` v0.2:
 
-- Cosmo
-- Flatly
+- Added themes Cosmo and Flatly
+- Updated [Marked](https://github.com/markedjs/marked) and [Google Code Prettify](https://github.com/googlearchive/code-prettify)
+
+It adopts the [Bootstrap 2 themes](https://bootswatch.com/2/).\
 
 ```
 <script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210310/2/strapdown.min.js"></script>

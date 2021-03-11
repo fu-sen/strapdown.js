@@ -20,6 +20,8 @@ ___
 
 ### Bootstrap 2 themes
 
+https://strapdown.js.balloon.net.eu.org/2/
+
 The original `Strapdown.js` v0.2\
 It adopts the [Bootstrap 2 themes](https://bootswatch.com/2/).\
 The following has been added from the original:
@@ -35,6 +37,8 @@ ___
 
 ### Bootstrap 3 theme
 
+https://strapdown.js.balloon.net.eu.org/3/
+
 It can use the [Bootstrap 3 themes](https://bootswatch.com/3/).
 
 It is the [development version](https://github.com/OCG-labs/strapdown/tree/dev) that was included in the [Pull Request](https://github.com/arturadib/strapdown/pull/51).\
@@ -48,6 +52,8 @@ ___
 
 ### Bootstrap 4 theme
 
+https://strapdown.js.balloon.net.eu.org/4/
+
 It can use the [Bootstrap 4 themes](https://bootswatch.com/).
 
 ```
@@ -57,6 +63,8 @@ It can use the [Bootstrap 4 themes](https://bootswatch.com/).
 ___
 
 ### Bootstrap 5 beta theme
+
+https://strapdown.js.balloon.net.eu.org/5/
 
 It can use the Bootstrap 5 beta themes
 

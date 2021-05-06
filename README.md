@@ -62,11 +62,11 @@ It can use the [Bootstrap 4 themes](https://bootswatch.com/).
 
 ___
 
-### Bootstrap 5 beta theme
+### Bootstrap 5 theme
 
 https://strapdown.js.balloon.net.eu.org/5/
 
-It can use the Bootstrap 5 beta themes
+It can use the Bootstrap 5 themes
 
 ```
 <script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210416/5/strapdown.min.js"></script>
@@ -99,7 +99,7 @@ You can get this source here:
 <script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@main/4/strapdown.min.js"></script>
 ```
 
-**Bootstrap 5 beta themes** (v0.5 / main branch):
+**Bootstrap 5 themes** (v0.5 / main branch):
 
 ```
 <script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@main/5/strapdown.min.js"></script>

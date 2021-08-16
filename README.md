@@ -27,7 +27,7 @@ This makes the following changes to the original `Strapdown.js` v0.2:
 - Added themes Cosmo and Flatly
 - Updated [Marked](https://github.com/markedjs/marked) and [Google Code Prettify](https://github.com/googlearchive/code-prettify)
 
-It adopts the [Bootstrap 2 themes](https://bootswatch.com/2/).\
+It adopts the [Bootstrap 2 themes](https://bootswatch.com/2/).
 
 ```
 <script src="https://cdn.jsdelivr.net/gh/fu-sen/strapdown.js@20210816/2/strapdown.min.js"></script>

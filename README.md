@@ -18,7 +18,7 @@ There are several more `Strapdown.js` in this project.
 
 ___
 
-### Bootstrap 2 themes
+## Bootstrap 2 themes
 
 https://strapdown.js.balloon.net.eu.org/2/
 
@@ -35,7 +35,7 @@ It adopts the [Bootstrap 2 themes](https://bootswatch.com/2/).
 
 ___
 
-### Bootstrap 3 theme
+## Bootstrap 3 theme
 
 https://strapdown.js.balloon.net.eu.org/3/
 
@@ -50,7 +50,7 @@ I found a bug and fixed it.
 
 ___
 
-### Bootstrap 4 theme
+## Bootstrap 4 theme
 
 https://strapdown.js.balloon.net.eu.org/4/
 
@@ -62,7 +62,7 @@ It can use the [Bootstrap 4 themes](https://bootswatch.com/).
 
 ___
 
-### Bootstrap 5 theme
+## Bootstrap 5 theme
 
 https://strapdown.js.balloon.net.eu.org/5/
 
@@ -74,7 +74,7 @@ It can use the Bootstrap 5 themes
 
 ___
 
-### Development version
+## Development version
 
 This is updated from time to time, but if you use it, the display may change suddenly.\
 You can get this source here:
@@ -107,8 +107,14 @@ You can get this source here:
 
 ___
 
-### 日本語 Japanese
+## English information
+
+[Strapdown.js | 🎈 BALLOON | FU-SEN](https://balloon.gdn/strapdown.js/)
+
+___
+
+## 日本語 Japanese
 
 Strapdown.js については次のページで紹介しています。
 
-- [Strapdown.js | ふうせん🎈 FU-SEN](https://balloon.asia/strapdown.js/)
+[Strapdown.js | ふうせん🎈 FU-SEN](https://balloon.asia/strapdown.js/)

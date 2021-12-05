@@ -20,7 +20,7 @@ ___
 
 ## Bootstrap 2 themes
 
-https://strapdown.js.balloon.net.eu.org/2/
+https://strapdown-js.balloon.net.eu.org/2/
 
 This makes the following changes to the original `Strapdown.js` v0.2:
 
@@ -37,7 +37,7 @@ ___
 
 ## Bootstrap 3 theme
 
-https://strapdown.js.balloon.net.eu.org/3/
+https://strapdown-js.balloon.net.eu.org/3/
 
 It can use the [Bootstrap 3 themes](https://bootswatch.com/3/).
 
@@ -52,7 +52,7 @@ ___
 
 ## Bootstrap 4 theme
 
-https://strapdown.js.balloon.net.eu.org/4/
+https://strapdown-js.balloon.net.eu.org/4/
 
 It can use the [Bootstrap 4 themes](https://bootswatch.com/).
 
@@ -64,7 +64,7 @@ ___
 
 ## Bootstrap 5 theme
 
-https://strapdown.js.balloon.net.eu.org/5/
+https://strapdown-js.balloon.net.eu.org/5/
 
 It can use the Bootstrap 5 themes
 

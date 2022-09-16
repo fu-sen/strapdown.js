@@ -1,6 +1,6 @@
 ## Strapdown.js CDN using jsDelivr
 
-[Strapdown.js](http://strapdownjs.com/) was not provided on the CDN. Currently this is solved by [jsDelivr](https://www.jsdelivr.com/).
+Strapdown.js was not provided on the CDN. Currently this is solved by [jsDelivr](https://www.jsdelivr.com/).
 
 Original `strapdown.js`. You replace this:
 

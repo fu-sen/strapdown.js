@@ -2,7 +2,8 @@
 
 Strapdown.js was not provided on the CDN. Currently this is solved by [jsDelivr](https://www.jsdelivr.com/).
 
-Original `strapdown.js`. You replace this:
+Original `strapdown.js`. You replace this.
+(This will not work as the domain `strapdownjs.com` is not currently working):
 
 ```
 <script src="https://strapdownjs.com/v/0.2/strapdown.js"></script>

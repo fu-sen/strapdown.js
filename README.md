@@ -1,3 +1,7 @@
+[Strapdown.js project has been archived.](https://github.com/fu-sen/strapdown) This project will no longer be updated. It may also be deleted later. You should consider an alternative to Strapdown.js.
+
+___
+
 ## Strapdown.js CDN using jsDelivr
 
 Strapdown.js was not provided on the CDN. Currently this is solved by [jsDelivr](https://www.jsdelivr.com/).

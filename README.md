@@ -108,14 +108,8 @@ You can get this source here:
 
 ___
 
-## English information
-
-[Strapdown.js | 🎈 BALLOON | FU-SEN](https://balloon.gdn/strapdown.js/)
-
-___
-
 ## 日本語 Japanese
 
 Strapdown.js については次のページで紹介しています。
 
-[Strapdown.js | ふうせん🎈 FU-SEN](https://balloon.asia/strapdown.js/)
+[Strapdown.js | ふうせん🎈 FU-SEN](https://balloo-jp.vercel.app/strapdown.js/)
